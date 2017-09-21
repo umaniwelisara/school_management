@@ -8,4 +8,5 @@ This project has four major managements
   2. Staff Management.
   3. Library Management.
   4. Event Management.
+  
 This project has been implemented for our third year module CSSE. A group of four members knows has Team Extreme has came up with this simple solution for a school.
