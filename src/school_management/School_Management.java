@@ -20,7 +20,6 @@ public class School_Management {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Connection c = DBConn.myConn();
         Login_UI login = new Login_UI();
         login.setVisible(true);
     }
