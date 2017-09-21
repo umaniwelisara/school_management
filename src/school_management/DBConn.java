@@ -43,15 +43,16 @@ public class DBConn {
         } catch (SQLException ex) {
             System.out.println("An error occurred. Maybe user/password is invalid");
             ex.printStackTrace();
-        } finally {
-            if (conn != null) {
-                try {
-                    conn.close();
-                } catch (SQLException ex) {
-                    ex.printStackTrace();
-                }
-            }
-        }
+        } 
+//        finally {
+//            if (conn != null) {
+//                try {
+//                    conn.close();
+//                } catch (SQLException ex) {
+//                    ex.printStackTrace();
+//                }
+//            }
+//        }
         return null;
     }
 }
