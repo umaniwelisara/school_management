@@ -10,3 +10,4 @@ This project has four major managements
   4. Event Management.
   
 This project has been implemented for our third year module CSSE. A group of four members knows has Team Extreme has came up with this simple solution for a school.
+You may need to install Netbeans, MySQL database server and Java JDK to run this simple system.
